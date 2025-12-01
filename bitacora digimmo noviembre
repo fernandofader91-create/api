@@ -1,0 +1,148 @@
+INFORME MENSUAL - DESARROLLOS NOVIEMBRE
+
+8 DE NOVIEMBRE (6 horas)
+Control de Versiones: Guardado de 3 proyectos en repositorios
+
+Desarrollo de Mapas:
+
+Agregado de casa al mapa1
+
+Base de Datos:
+
+Creación de nueva BD para world enemy data
+
+Corrección de URI hacia TopMMO MongoDB Atlas
+
+Sistemas:
+
+Integración de componentes
+
+Carga automática de features
+
+Visualización de enemigos (spawn y renderizado)
+
+Movimiento IA básico serverside
+
+Optimizaciones:
+
+Correcciones de conexiones
+
+Mejoras en cambios de mapas
+
+9 DE NOVIEMBRE (2 horas)
+Sistema de Combate:
+
+Reducción de vida del player por ataques enemigos en world map
+
+Interfaz de Usuario:
+
+Implementación de UI básica de vida
+
+10 DE NOVIEMBRE (30 minutos)
+Comunicación en Tiempo Real:
+
+Actualización de vida al cliente via UDP directo
+
+11 DE NOVIEMBRE (4 horas)
+Arte y Animaciones:
+
+Ataque melee Agumon (pixelart)
+
+Implementación de sprite attack
+
+Repaso de idle personaje principal
+
+Sistemas de Juego:
+
+Pathfinding para enemigos en worldmap
+
+Z-index para renderizado por altura
+
+14 DE NOVIEMBRE (2 horas)
+Nuevo Modo de Juego:
+
+Inicio de desarrollo de Arena PVE
+
+15 DE NOVIEMBRE (3 horas 30 minutos)
+Arena PVE:
+
+Desarrollo continuado del modo arena
+
+Arquitectura:
+
+Modularización del GameServer
+
+17 DE NOVIEMBRE (3 horas)
+Backend:
+
+API para comentarios y organización
+
+Servidor para Arena PVE
+
+Sistemas de Juego:
+
+Desactivación de cuerpos en world map
+
+Nuevo handler de stats para Digimons
+
+Estados de movimiento para digimon y personaje en arena PVE
+
+18 DE NOVIEMBRE (4 horas)
+Base de Datos:
+
+Ajustes y optimizaciones
+
+Solución de problemas de sincronización
+
+Arena PVE:
+
+Actualización de datos y funciones
+
+Mejora y optimización de IA enemiga
+
+Mantenimiento:
+
+Eliminación de código innecesario
+
+Testing de funciones
+
+RESUMEN 
+Total de horas trabajadas: 25 horas
+
+
+20 11
+2 hs
+arranque 8 30 ya es casi mediodia
+caapz perdi una hora 
+estoy trabajando en que funcione bien la arena arreglar algunas cosas y que el estado tenga sentido y se actualize.
+12 hs
+
+3 y media. estoy hace facil dos horas y media.
+a las 4 corte 
+
+3 horas ahi y 2 hs arriba 5 horas ya hoy.
+
+
+
+despues de las 17 30 ya volvi.
+
+20 30 hs
+
+aprox quedan 15 horas pagas.
+
+
+
+
+30 - 11
+
+7:30
+
+pulimientos
+
+interpolacion y arreglos
+
+arregle interpolacion 
+arregle que no salian los personajes del mapa al cambiar. 
+arregle referencia perdida del world digimon al atacar mientras target cambia de mapa
+
+
